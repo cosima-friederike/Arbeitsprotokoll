@@ -10,4 +10,6 @@ Zu Beginn unserer ersten Informatikstunde bekamen wir durch Herrn Buhl einen Ein
 #### Mittwoch, der 17.08.2022
 Heute konnten wir erst verspätet mit der Auseinandersetzung der Projektfindung anfangen, da uns technische Hilfsmittel fehlten. Als wir dann aber anfangen konnten, haben wir uns gemeinsam einen Github-Account erstellt und uns mit der Internetseite vertrautgemacht. Dafür haben wir uns Beispiele für Projektseiten angeschaut und uns mit dem Aufbau, Kürzeln und Funktionen von Github auseinandergesetzt. Dann haben wir angefangen zu überlegen, wie die grobe Struktur unserer Projektseite aussehen soll und die Stundenprotokolle für letzte und für diese Stunde geschreiben. 
 #### Dienstag, der 23.08.2022
-In der heutigen Stunde haben wir uns verschiedene Programme fürs Programieren angeguckt, unter anderem [Greenfoot](https://www.greenfoot.org/frames/#tryit). Hier hzaben wir uns über die Herstellung und Funktionen von Frames informiert. Außerdem haben wir uns entschieden, wahrscheinlich bmit Greenfoot zu arbeiten und ein SPiel zu kreieren.
+In der heutigen Stunde haben wir uns verschiedene Programme angeguckt, unter anderem [Greenfoot](https://www.greenfoot.org/frames/#tryit). Hier haben wir uns über die Herstellung und Funktionen von Frames informiert. Außerdem haben wir uns entschieden, wahrscheinlich mit Greenfoot zu arbeiten um ein Spiel zu entwickeln. Hierzu haben wir uns überlegt, dass wir gerne etwas in die Richtung wie das 2D-SPiel "Doodle Jump" machen würden.
+#### Mittwoch, der 24.08.2022
+
