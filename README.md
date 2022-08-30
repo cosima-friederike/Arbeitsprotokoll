@@ -13,3 +13,7 @@ Heute konnten wir erst verspätet mit der Auseinandersetzung der Projektfindung 
 In der heutigen Stunde haben wir uns verschiedene Programme angeguckt, unter anderem [Greenfoot](https://www.greenfoot.org/frames/#tryit). Hier haben wir uns über die Herstellung und Funktionen von Frames informiert. Außerdem haben wir uns entschieden, wahrscheinlich mit Greenfoot zu arbeiten um ein Spiel zu entwickeln. Hierzu haben wir uns überlegt, dass wir gerne etwas in die Richtung wie das 2D-SPiel "Doodle Jump" machen würden.
 #### Mittwoch, der 24.08.2022
 Heute haben wir uns einige Tutorials von Greenfoot angeguckt und gelernt, wie man eine eigene Welt erstellt und diese bearbeitet. Dann habe wir dies selbst versucht und eine Welt mit Hintergrund und verschiedenen "Actors" erstellt. Allerdings hatten wir damit Probleme, da die "Classes" immer verschwunden sind, sobald wir diese bearbeitet oder neue "Subclasses" hinzugefügt haben. 
+#### Dienstag, der 30.08.2022
+Neues prgramm entdeckt (snap) 
+tutorial angeguckt
+snap ausprobiert/funktionen/eingelesen
