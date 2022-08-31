@@ -17,3 +17,9 @@ Heute haben wir uns einige Tutorials von Greenfoot angeguckt und gelernt, wie ma
 Neues prgramm entdeckt (snap) 
 tutorial angeguckt
 snap ausprobiert/funktionen/eingelesen
+
+#### Mittwoch, der 31.08.2022
+überlegt, was für ein spiel, labyrinth 
+youtube video labyrinth erstellen zur hilfe angeguckt
+labyrinth / wände erstellt 
+erste funktionen / bewegungen programmiert 
