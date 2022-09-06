@@ -14,11 +14,9 @@ In der heutigen Stunde haben wir uns verschiedene Programme angeguckt, unter and
 #### Mittwoch, der 24.08.2022
 Heute haben wir uns einige Tutorials von Greenfoot angeguckt und gelernt, wie man eine eigene Welt erstellt und diese bearbeitet. Dann habe wir dies selbst versucht und eine Welt mit Hintergrund und verschiedenen "Actors" erstellt. Allerdings hatten wir damit Probleme, da die "Classes" immer verschwunden sind, sobald wir diese bearbeitet oder neue "Subclasses" hinzugefügt haben. 
 #### Dienstag, der 30.08.2022
-Neues prgramm entdeckt (snap) 
-tutorial angeguckt
-snap ausprobiert/funktionen/eingelesen
+Heute haben wir uns mit Snap, einem für uns neuen Programm, auseinandergesetzt, da wir mit Greenfoot nicht zufrieden waren. Dafür haben wir uns Tutorials angeguckt, uns in das Thema eingelesen und auch selber die Funktionen des Programms ausprobiert.
 #### Mittwoch, der 31.08.2022
 In dieser Stunde haben wir überlegt was wir denn nun  für ein Spiel programmieren wollen und haben uns schlussendlich für ein Labyrinth entschieden. Wir haben uns also ein [YouTube Video](https://youtu.be/YZYTl6u0Aeg) angeguckt, um uns Skills anzueignen wie wir dieses am Besten erstellen können. Nachdem wir dann wussten wie wir dies tun sollen haben wir dann selber ein Labyrinth aufgebaut, indem wir verschiedene Wände gezogen haben, so das es uns schlussendlich gefällt. Abschließend haben wir dann erste Funktionen ausprobiert, und Bewegungen programmiert.
 ![Screenshot (2)](https://user-images.githubusercontent.com/111414772/188616493-ea75a5fb-c813-43b1-b352-d432fbc7c226.png)
-
+#### Dienstag, der 06.09.2022
 
