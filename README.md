@@ -19,4 +19,6 @@ tutorial angeguckt
 snap ausprobiert/funktionen/eingelesen
 #### Mittwoch, der 31.08.2022
 In dieser Stunde haben wir überlegt was wir denn nun  für ein Spiel programmieren wollen und haben uns schlussendlich für ein Labyrinth entschieden. Wir haben uns also ein [YouTube Video](https://youtu.be/YZYTl6u0Aeg) angeguckt, um uns Skills anzueignen wie wir dieses am Besten erstellen können. Nachdem wir dann wussten wie wir dies tun sollen haben wir dann selber ein Labyrinth aufgebaut, indem wir verschiedene Wände gezogen haben, so das es uns schlussendlich gefällt. Abschließend haben wir dann erste Funktionen ausprobiert, und Bewegungen programmiert.
+![Screenshot (2)](https://user-images.githubusercontent.com/111414772/188616493-ea75a5fb-c813-43b1-b352-d432fbc7c226.png)
+
 
