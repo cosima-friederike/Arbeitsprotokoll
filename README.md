@@ -20,4 +20,5 @@ In dieser Stunde haben wir überlegt was wir denn nun  für ein Spiel programmie
 ![Screenshot (2)](https://user-images.githubusercontent.com/111414772/188616493-ea75a5fb-c813-43b1-b352-d432fbc7c226.png)
 #### Dienstag, der 06.09.2022
 Am Anfang der heutigen Stunde mussten wir leider erneut etwas Zeit in Funktionen investieren, die wir letzte Woche schon erstellt haben, da diese zum Teil nicht richtig gespeichert wurden. Trotzdem sind wir mit unserem Labyrinth weitergekommen, denn wir haben die Wände bearbeitet und die Funktion erstellt, dass sobald der Spieler gegen eine Wand kkommt, automatisch zurück zum Startpunkt bewegt wird. Zudem haben wir die Stundenprotokolle der letzten und der heutigen Stunde verfasst.
-
+#### Mittwoch, der 07.09.2022
+Wir haben heute an dem Aufbau und Aussehen unseres Spiels gearbeitet und unter anderem ein [Hintergrundbild](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8a13NwSNV1B1XVMsK1Lh0kbvpsJY38GGIkw&usqp=CAU) rausgesucht und eingefügt. Da durch das dunkile Bild die Wände des Labyrinths nicht mehr gut zu erkennen waren, haben wir auch diese überarbeitet und die Farbe verändert. 
