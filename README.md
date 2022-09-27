@@ -44,4 +44,4 @@ Wir waren auf Klassenfahrt.
 Wir waren auf Klassenfahrt.
 
 #### Dienstag, den 27.09.2022
-Zu Beginn der Stunde haben wir unser Unterrichtsprotokoll bearbeitet.
+Zu Beginn der Stunde haben wir unser Unterrichtsprotokoll bearbeitet. Als wir dann an dem Projekt weiter arbeiten wollten, hat es nicht funktioniert und wir haben Sie nach Hilfe gefragt. Wir sind in dieser Stunde allerdings auf noch keine Lösung gekommen.
