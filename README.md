@@ -55,3 +55,7 @@ Notiz zum Bild: Oben rechts sieht man, dass die "Blende" nur einen Teil des Laby
 Die Stunde ist ausgefallen.
 
 #### Mittwoch, den 05.10.2022
+angefangen Ziel zu erstellen und Reaktion des Player 1, wenn dies erreicht wird
+
+Heute haben wir geschafft, unsere Blende gut zu überarbeiten: Sie verdeckt das Spielfeld nun ganz und folgt dem "Player 1" überall hin. Die Blende so erstellen, dass sie das Spiel gang verdeckt, haben wir zuerst in dem Programm "Gimp" versucht, sind dann aber doch zurück zu Snap! gewechselt und konnten dort die Funktion einstellen, dass sie sich auf 350% vergrößert.
+Außerdem
