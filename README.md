@@ -18,7 +18,7 @@ In der heutigen Stunde haben wir uns verschiedene Programme angeguckt, unter and
 Heute haben wir uns einige Tutorials von Greenfoot angeguckt und gelernt, wie man eine eigene Welt erstellt und diese bearbeitet. Dann habe wir dies selbst versucht und eine Welt mit Hintergrund und verschiedenen "Actors" erstellt. Allerdings hatten wir damit Probleme, da die "Classes" immer verschwunden sind, sobald wir diese bearbeitet oder neue "Subclasses" hinzugefügt haben. 
 
 #### Dienstag, den 30.08.2022
-Heute haben wir uns mit Snap, einem für uns neuen Programm, auseinandergesetzt, da wir mit Greenfoot nicht zufrieden waren. Dafür haben wir uns Tutorials angeguckt, uns in das Thema eingelesen und auch selber die Funktionen des Programms ausprobiert.
+Heute haben wir uns mit [Snap!](https://snap.berkeley.edu/snap/snap.html), einem für uns neuen Programm, auseinandergesetzt, da wir mit Greenfoot nicht zufrieden waren. Dafür haben wir uns Tutorials angeguckt, uns in das Thema eingelesen und auch selber die Funktionen des Programms ausprobiert.
 
 #### Mittwoch, den 31.08.2022
 In dieser Stunde haben wir überlegt was wir denn nun  für ein Spiel programmieren wollen und haben uns schlussendlich für ein Labyrinth entschieden. Wir haben uns also ein [YouTube Video](https://youtu.be/YZYTl6u0Aeg) angeguckt, um uns Skills anzueignen wie wir dieses am Besten erstellen können. Nachdem wir dann wussten wie wir dies tun sollen haben wir dann selber ein Labyrinth aufgebaut, indem wir verschiedene Wände gezogen haben, so das es uns schlussendlich gefällt. Abschließend haben wir dann erste Funktionen ausprobiert, und Bewegungen programmiert.
@@ -49,6 +49,7 @@ Zu Beginn der Stunde haben wir unser Unterrichtsprotokoll überarbeitet. Als wir
 #### Mittwoch, den 28.09.2022
 Heute mussten wir uns wieder mit bereits programmierten Funktionen befassen, da diese trotz Speichern am Ende der letzten Stunde nicht funktionierten. Zudem hat unser Computer nicht funktioniert und wir mussten für die Doppelstunde nach vorne an den "Lehrer-PC" wechseln. Für das Wiederherstellen der alten Funktionen haben wir Sie, Herrn Buhl, nach Hilfe gefragt und anschließend das gesamte Spiel in einem neuen Dokument neu gebaut, da Ihnen dies als einfachste Lösung erschien. Anschließend sind wir trotz dieses Zeitverlusts dennoch gut an unserem Spiel voran gekommen, unter anderem haben wir eine "Blende" erstellt, sodass das Labyrinth im Spiel nicht komplett sichtbar ist, sondern nur der Bereich, in dem sich der "Player 1" befindet. Diese "Blende" müssen wir in der nächsten Stunde noch überarbeiten, weil diese das komplette Labyrinth verdecken soll und wir sie dafür mit einem anderen Programm als Snap! erstellen müssen, damit sie größer ist und das gesamte Spiel abdecken kann.
 ![Screenshot (5)](https://user-images.githubusercontent.com/111414772/193995379-f4363ddb-7bb1-43b0-aefa-a63ae454d1d4.png)
+Notiz zum Bild: Oben rechts sieht man, dass die "Blende" nur einen Teil des Labyrinths verdeckt.
 
 #### Dienstag, den 04.10.2022
 Die Stunde ist ausgefallen.
