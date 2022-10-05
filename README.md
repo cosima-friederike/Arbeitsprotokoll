@@ -48,6 +48,7 @@ Zu Beginn der Stunde haben wir unser Unterrichtsprotokoll überarbeitet. Als wir
 
 #### Mittwoch, den 28.09.2022
 Heute mussten wir uns wieder mit bereits programmierten Funktionen befassen, da diese trotz Speichern am Ende der letzten Stunde nicht funktionierten. Zudem hat unser Computer nicht funktioniert und wir mussten für die Doppelstunde nach vorne an den "Lehrer-PC" wechseln. Für das Wiederherstellen der alten Funktionen haben wir Sie, Herrn Buhl, nach Hilfe gefragt und anschließend das gesamte Spiel in einem neuen Dokument neu gebaut, da Ihnen dies als einfachste Lösung erschien. Anschließend sind wir trotz dieses Zeitverlusts dennoch gut an unserem Spiel voran gekommen, unter anderem haben wir eine "Blende" erstellt, sodass das Labyrinth im Spiel nicht komplett sichtbar ist, sondern nur der Bereich, in dem sich der "Player 1" befindet. Diese "Blende" müssen wir in der nächsten Stunde noch überarbeiten, weil diese das komplette Labyrinth verdecken soll und wir sie dafür mit einem anderen Programm als Snap! erstellen müssen, damit sie größer ist und das gesamte Spiel abdecken kann.
+![Screenshot (5)](https://user-images.githubusercontent.com/111414772/193995379-f4363ddb-7bb1-43b0-aefa-a63ae454d1d4.png)
 
 #### Dienstag, den 04.10.2022
 Die Stunde ist ausgefallen.
