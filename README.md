@@ -47,4 +47,9 @@ Wir waren auf Klassenfahrt.
 Zu Beginn der Stunde haben wir unser Unterrichtsprotokoll überarbeitet. Als wir dann an dem Spiel weiter arbeiten wollten, hat dies nicht funktioniert, da Spielbewegungen nicht so abliefen, wie wir sie zuvor programmiert hatten und auch der Player immer wieder aus dem Bild verschwand. Daher haben wir Sie, Herrn Buhl, nach Hilfe gefragt. Allerdings sind wir in dieser Stunde noch nicht auf eine Lösung für diese Probleme gekommen.
 
 #### Mittwoch, den 28.09.2022
-Wir haben 
+Heute mussten wir uns wieder mit bereits programmierten Funktionen befassen, da diese trotz Speichern am Ende der letzten Stunde nicht funktionierten. Zudem hat unser Computer nicht funktioniert und wir mussten für die Doppelstunde nach vorne an den "Lehrer-PC" wechseln. Nachdem wir erst einmal Zeit für das Wiederherstellen der alten Funktionen gebraucht haben, sind wir trotzdem gut an unserem Spiel vorangekommen: Wir 
+
+#### Dienstag, den 04.10.2022
+Die Stunde ist ausgefallen.
+
+#### Mittwoch, den 05.10.2022
