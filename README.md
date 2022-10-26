@@ -61,4 +61,4 @@ Heute haben wir geschafft, unsere Blende zu überarbeiten: Sie verdeckt das Spie
 Die Stunde ist ausgefallen.
 
 #### Mittwoch, den 26.10.2022
-In dieser Stunde haben wir die Blende überarbeiten müssen, da
+In dieser Stunde haben wir die Blende überarbeiten müssen, da die eingestellten Funktionen nicht mehr funktionierten. Nun folgt die Blende wieder dem "Player 1", auch wenn sich dieser zurück zum Center bewegt. Außerdem haben wir den Sprite "Finish" erstellt, der das Ziel des Labyrinths darstellt. Wenn der Player diesen Sprite erreicht hat, hat der Spieler die erste Runde unseres Spieles gewonnen. In den nächsten Stunden wollen wir daher mindestens ein weiteres, schwierigeres Spiellevel erstellen, indem wir ein neues Kostüm für das "Labyrinth" kreieren, zu dem es dann automatisch wechseln soll.
