@@ -61,4 +61,4 @@ Heute haben wir geschafft, unsere Blende zu überarbeiten: Sie verdeckt das Spie
 Die Stunde ist ausgefallen.
 
 #### Mittwoch, den 26.10.2022
-
+In dieser Stunde haben wir die Blende überarbeiten müssen, da
