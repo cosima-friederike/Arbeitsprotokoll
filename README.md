@@ -55,7 +55,7 @@ Notiz zum Bild: Oben rechts sieht man, dass die "Blende" nur einen Teil des Laby
 Die Stunde ist ausgefallen.
 
 #### Mittwoch, den 05.10.2022
-Heute haben wir geschafft, unsere Blende zu überarbeiten: Sie verdeckt das Spielfeld nun ganz und folgt dem "Player 1" überall hin. Um die Blende so zu erstellen, dass sie das Spiel ganz verdeckt, haben wir zuerst das Programm "Gimp" ausprobiert, sind dann aber doch zu Snap! zurückgewechselt. Dort konnten wir die Funktion einstellen, dass sich diese auf 350% vergrößert. Somit verdeckt sie an jeder Position das gesammte Spiel. Allerdings haben wir noch nicht herausgefunden, wie wir es schaffen, dass die Blende dem "Player 1" zurück zum Center folgt, wenn dieser die Labyrinthwände berührt.
+Heute haben wir geschafft, unsere Blende zu überarbeiten: Sie verdeckt das Spielfeld nun ganz und folgt dem "Player 1" überall hin. Um die Blende so zu erstellen, dass sie das Spiel ganz verdeckt, haben wir zuerst das Programm "Gimp" ausprobiert, sind dann aber doch zu Snap! zurückgewechselt. Dort konnten wir die Funktion einstellen, dass sich diese um 350% vergrößert. Somit verdeckt sie an jeder Position das gesammte Spiel. Allerdings haben wir noch nicht herausgefunden, wie wir es schaffen, dass die Blende dem "Player 1" zurück zum Center folgt, wenn dieser die Labyrinthwände berührt.
 
 #### Dienstag, den 25.10.2022
 Die Stunde ist ausgefallen.
