@@ -64,3 +64,8 @@ Die Stunde ist ausgefallen.
 In dieser Stunde haben wir die Blende überarbeiten müssen, da die eingestellten Funktionen nicht mehr funktionierten. Nun folgt die Blende wieder dem "Player 1", auch wenn sich dieser zurück zum Center bewegt. Außerdem haben wir den Sprite "Finish" erstellt, der das Ziel des Labyrinths darstellt. Wenn der Player diesen Sprite erreicht hat, hat der Spieler die erste Runde unseres Spieles gewonnen. In den nächsten Stunden wollen wir daher mindestens ein weiteres, schwierigeres Spiellevel erstellen, indem wir ein neues Kostüm für das "Labyrinth" kreieren, zu dem es dann automatisch wechseln soll.
 ![Screenshot (8)](https://user-images.githubusercontent.com/111414772/197957822-958a53a3-cd4b-4b12-a094-77a087f148e1.png)
 
+#### Dienstag, den 01.11.2022
+Die Stunde ist auf Grund des Schulentwicklungstages ausgefallen.
+
+#### Mittwoch, den 02.11.2022
+Heute haben wir das zweite Kostüm (Labyrinth 2) erstellt. Da wir das zweite Labyrinth schwieriger gestalten wollten, hat dies sehr viel Zeit beansprucht. Wir haben das Level auch von Mitschülern testweise durchspielen lassen, um anschließend Änderungen vorzunehmen. So haben wir beispielsweise manche Wege vergrößern müssen, da diese zu schmal für den Player waren. Zunächst haben wir die Einstellung vorgenommen, dass das Labyrinth nach Durchspielen der ersten Runde automatisch zu Kostüm 2 wechselt. Außerdem haben wir ein Ziel für beide Level erstellt bzw. überarbeitet, sodass der Spieler in etwa weiß, wo sich das Ziel jeweils befindet. Dies hat allerdings nicht so gut funktioniert, da das Ziel nicht an einem festen Platz bleibt, sondern sich immer wieder, vor allem bei dem Kostümwechsel, ungewollt verschiebt.
