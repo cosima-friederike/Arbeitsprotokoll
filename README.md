@@ -75,3 +75,7 @@ Heute haben wir das zweite Kostüm ("Labyrinth 2") erstellt. Da wir das zweite L
 In der heutigen Stunde haben wir an dem Ziel gearbeitet. Wir haben das "Finish" so einstellen können, dass es die Position nicht wahllos verändert. Wir haben ein zweites "Finish" programmiert, dass anstelle des "Finish 1" nach Ende der Spielrunde 1 automatisch sichtbar wird. Ursprünglich wollten wir die Ziele unsichtbar machen, dies hat jedoch nicht geklappt, da zum Beispiel im "ghost"-Effekt auch die Funktionen verloren gehen. 
 Dann haben wir den Startscreen erstellt und auch einen Start-Button. Diese zwei Sprites überlagern zu Beginn des Spiels alle anderen Ebenen und erst, wenn der Start-Button angeklickt wird, erscheint das "Labyrinth 1" und der "Player 1". In der morgigen Stunde möchten wir noch eine Levelauswahl erstellen und an der Optik des Spieles arbeiten. 
 ![Screenshot (10)](https://user-images.githubusercontent.com/111414772/200559692-1425bc51-a1fd-49a2-9377-23efcccbd6fb.png)
+
+#### Mittwoch, den 09.11.2022
+Wie vorgenommen, haben wir heute eine Levelauswahl erstellt, indem wir die zwei Sprites "Level 1" und "Level 2" designed haben. Je nachdem, welches Level vom Spieler gewählt wird, erscheinen die anderen Sprites, also "Player 1", "Blende", "Labyrinth 1" beziehungsweise 2, "Finish 1" beziehungsweise 2 und so weiter. Wenn ein Level durchgespielt wurde, kommt der Spieler automatisch wieder zur Levelauswahl, wird also nicht mehr wie vorher direkt zum nächsten Level weitergeleitet. 
+
