@@ -72,8 +72,6 @@ Heute haben wir das zweite Kostüm ("Labyrinth 2") erstellt. Da wir das zweite L
 ![image](https://user-images.githubusercontent.com/111414772/199436832-1f613f43-2101-445b-8689-cb6bb506bd62.png)
 
 #### Dienstag, den 08.11.2022
-ziel funktiort (feste position etc.)
-start und screen
-ziel unsicvhtbar funktioniert nicht aber ok
-nächste stunde level auswahl
+In der heutigen Stunde haben wir an dem Ziel gearbeitet. Wir haben das "Finish" so einstellen können, dass es die Position nicht wahllos verändert. Wir haben ein zweites "Finish" programmiert, dass anstelle des "Finish 1" nach Ende der Spielrunde 1 automatisch sichtbar wird. Ursprünglich wollten wir die Ziele unsichtbar machen, dies hat jedoch nicht geklappt, da zum Beispiel im "ghost"-Effekt auch die Funktionen verloren gehen. 
+Dann haben wir den Startscreen erstellt und auch einen Start-Button. Diese zwei Sprites überlagern zu Beginn des Spiels alle anderen Ebenen und erst, wenn der Start-Button angeklickt wird, erscheint das "Labyrinth 1" und der "Player 1". In der morgigen Stunde möchten wir noch eine Levelauswahl erstellen und an der Optik des Spieles arbeiten. 
 ![Screenshot (10)](https://user-images.githubusercontent.com/111414772/200559692-1425bc51-a1fd-49a2-9377-23efcccbd6fb.png)
