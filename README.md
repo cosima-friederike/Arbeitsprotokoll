@@ -79,3 +79,9 @@ Dann haben wir den Startscreen erstellt und auch einen Start-Button. Diese zwei 
 #### Mittwoch, den 09.11.2022
 Wie vorgenommen haben wir heute eine Levelauswahl erstellt, indem wir die zwei Sprites "Level 1" und "Level 2" designed haben. Je nachdem, welches Level vom Spieler gewählt wird, erscheinen die anderen Sprites, also "Player 1", "Blende", "Labyrinth 1" beziehungsweise 2, "Finish 1" beziehungsweise 2 und so weiter. Wenn ein Level durchgespielt wurde, kommt der Spieler automatisch wieder zur Levelauswahl, wird also nicht mehr wie vorher direkt zum nächsten Level weitergeleitet. 
 Am Ende haben wir beide Level testweise von einer Mitschülerin spieln lassen und haben uns dazu entschieden, das "Labyrinth 2" in der nächsten Woche zu überarbeiten. Als wir dieses nämlich erstellt haben, haben sich immer wieder die gezeichneten Wände verändert, sodass sie alle unterschiedlich dick sind. Das verengt teilweise die Wege. Daher ist es sehr schwer bis fast unmögliche die Wege zu passieren.
+
+#### Dienstag, den 15.11.2022
+Die Stunde ist ausgefallen.
+
+#### Mittwoch, den 16.11.2022
+Heute haben wir, wie vorgenommen, das zweite Level überarbeitet. Das heißt, wir haben das "Labyrinth 2" neu gestaltet und dafür dünnere Striche für die Wände verwendet. Anschließend haben wir das komplette Spiel, also beide Level, einmal durchgespielt und darauf geachtet, ob noch Fehler vorliegen, um diese gegebenenfalls zu beheben. So mussten wir unter anderem die Blende überarbeiten, sodass diese dem "Player 1" immer folgt und auch die Reaktion des "Player 1" bei Berühren der Spielwände mussten wir nochmals neu einstellen, sodass der Spieler wieder automatisch zum "center" gelangt, wenn dieser das Labyrinth berührt. 
