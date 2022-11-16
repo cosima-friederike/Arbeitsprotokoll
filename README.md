@@ -85,3 +85,4 @@ Die Stunde ist ausgefallen.
 
 #### Mittwoch, den 16.11.2022
 Heute haben wir, wie vorgenommen, das zweite Level überarbeitet. Das heißt, wir haben das "Labyrinth 2" neu gestaltet und dafür dünnere Striche für die Wände verwendet. Anschließend haben wir das komplette Spiel, also beide Level, einmal durchgespielt und darauf geachtet, ob noch Fehler vorliegen, um diese gegebenenfalls zu beheben. So mussten wir unter anderem die Blende überarbeiten, sodass diese dem "Player 1" immer folgt und auch die Reaktion des "Player 1" bei Berühren der Spielwände mussten wir nochmals neu einstellen, sodass der Spieler wieder automatisch zum "center" gelangt, wenn dieser das Labyrinth berührt. 
+Zuletzt haben wir außerdem noch eine neue github-Datei für die Projektseite erstellt und uns über den Aufbau und das Inhaltsverzeichen informiert.
