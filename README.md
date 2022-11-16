@@ -1,10 +1,10 @@
-# Informatik Projekt Cosima & Friederike
+# Arbeitstagebuch von Cosima und Friederike
 
 [Unterrichtsprotokoll](https://github.com/cosima-friederike/informatik-c-f/blob/main/README.md#unterrichtsprotokoll)
 
 [Projektseite](https://github.com/cosima-friederike/Projektseite/blob/main/README.md#projektseite)
 
-### Unterrichtsprotokoll
+## Unterrichtsprotokoll
 #### Dienstag, den 16.08.2022
 Zu Beginn unserer ersten Informatikstunde bekamen wir durch Herrn Buhl einen Einblick, wie der Unterricht aussehen wird. Zudem stellte er uns die Erwartungen vor, die in diesem Kurs gegeben sind und welche Ziele verfolgt werden sollen. Nach dieser kurzen Einführung erhielten wir den Zugang zu der Website [Github](https://github.com/jbuhl/InformatikUnterricht/blob/master/README.md), auf der wir uns selbstständig über die verschiedenen Möglichkeiten unseres Projektes informieren konnten.
 
