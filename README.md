@@ -1,7 +1,6 @@
 # Informatik Projekt Cosima & Friederike
-## Inhaltsverzeichnis
-1. Projekteinführung
-2. [Unterrichtsprotokoll](https://github.com/cosima-friederike/informatik-c-f/blob/main/README.md#unterrichtsprotokoll)
+## Arbeitstagebuch
+[Unterrichtsprotokoll](https://github.com/cosima-friederike/informatik-c-f/blob/main/README.md#unterrichtsprotokoll)
 
 
 ### Unterrichtsprotokoll
