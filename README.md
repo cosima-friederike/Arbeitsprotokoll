@@ -1,5 +1,5 @@
 # Informatik Projekt Cosima & Friederike
-## Arbeitstagebuch
+
 [Unterrichtsprotokoll](https://github.com/cosima-friederike/informatik-c-f/blob/main/README.md#unterrichtsprotokoll)
 
 
