@@ -58,7 +58,7 @@ Die Stunde ist ausgefallen.
 Heute haben wir geschafft, unsere Blende zu überarbeiten: Sie verdeckt das Spielfeld nun ganz und folgt dem "Player 1" überall hin. Um die Blende so zu erstellen, dass sie das Spiel ganz verdeckt, haben wir zuerst das Programm "Gimp" ausprobiert, sind dann aber doch zu Snap! zurückgewechselt. Dort konnten wir die Funktion einstellen, dass sich diese um 350% vergrößert. Somit verdeckt sie an jeder Position das gesammte Spiel. Allerdings haben wir noch nicht herausgefunden, wie wir es schaffen, dass die Blende dem "Player 1" zurück zum Center folgt, wenn dieser die Labyrinthwände berührt.
 
 #### Dienstag, den 25.10.2022
-Die Stunde ist ausgefallen.
+Die Stunde ist ausgefallen. 
 
 #### Mittwoch, den 26.10.2022
 In dieser Stunde haben wir die Blende überarbeiten müssen, da die eingestellten Funktionen nicht mehr funktionierten. Nun folgt die Blende wieder dem "Player 1", auch wenn sich dieser zurück zum Center bewegt. Außerdem haben wir den Sprite "Finish" erstellt, der das Ziel des Labyrinths darstellt. Wenn der Player diesen Sprite erreicht hat, hat der Spieler die erste Runde unseres Spieles gewonnen. In den nächsten Stunden wollen wir daher mindestens ein weiteres, schwierigeres Spiellevel erstellen, indem wir ein neues Kostüm für das "Labyrinth" kreieren, zu dem es dann automatisch wechseln soll.
@@ -86,3 +86,9 @@ Die Stunde ist ausgefallen.
 #### Mittwoch, den 16.11.2022
 Heute haben wir, wie vorgenommen, das zweite Level überarbeitet. Das heißt, wir haben das "Labyrinth 2" neu gestaltet und dafür dünnere Striche für die Wände verwendet. Anschließend haben wir das komplette Spiel, also beide Level, einmal durchgespielt und darauf geachtet, ob noch Fehler vorliegen, um diese gegebenenfalls zu beheben. So mussten wir unter anderem die Blende überarbeiten, sodass diese dem "Player 1" immer folgt und auch die Reaktion des "Player 1" bei Berühren der Spielwände mussten wir nochmals neu einstellen, sodass der Spieler wieder automatisch zum "center" gelangt, wenn dieser das Labyrinth berührt. 
 Zuletzt haben wir außerdem noch eine neue github-Datei für die Projektseite erstellt und uns über den Aufbau und das Inhaltsverzeichen informiert.
+
+#### Dienstag, den 22.11.2022
+Die Stunde ist ausgefallen aufgrund des Vorabiturs.
+
+#### Mittwoch, den 23.11.2022
+Friederike war heute krank. Daher habe ich ein weiteres Labyrinth (Level 3) erstellt, da dies gut alleine funktioniert.
