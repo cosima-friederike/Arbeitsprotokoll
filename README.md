@@ -92,3 +92,5 @@ Die Stunde ist ausgefallen aufgrund des Vorabiturs.
 
 #### Mittwoch, den 23.11.2022
 Friederike war heute krank. Daher habe ich ein weiteres Labyrinth (Level 3) erstellt, da dies gut alleine funktioniert.
+
+#### Dienstag, den 
