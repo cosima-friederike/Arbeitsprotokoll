@@ -88,9 +88,19 @@ Heute haben wir, wie vorgenommen, das zweite Level überarbeitet. Das heißt, wi
 Zuletzt haben wir außerdem noch eine neue github-Datei für die Projektseite erstellt und uns über den Aufbau und das Inhaltsverzeichen informiert.
 
 #### Dienstag, den 22.11.2022
-Die Stunde ist ausgefallen aufgrund des Vorabiturs.
+Die Stunde ist aufgrund des Vorabiturs ausgefallen.
 
 #### Mittwoch, den 23.11.2022
-Friederike war heute krank. Daher habe ich ein weiteres Labyrinth (Level 3) erstellt, da dies gut alleine funktioniert.
+Friederike war heute krank. Daher habe ich (Cosima) ein weiteres Labyrinth (Level 3) erstellt, da dies gut alleine funktioniert.
 
-#### Dienstag, den 
+#### Dienstag, den 29.11.2022
+Die Stunde ist ausgefallen.
+
+#### Mittwoch, den 30.11.2022
+Die Stunde ist ausgefallen.
+
+#### Dienstag, den 06.12.2022
+Da Cosima krank ist, habe ich (Friederike) alleine am neuen Level weitergearbeitet und dafür die Levelauswahl überarbeitet. Außerdem habe ich mir einige der von Ihnen zur Verfügung gestellten Projektseiten und Unterrichtsprotokolle ehemaliger Schüler angeschaut, um Inspiration und Ideen zu sammeln.
+
+#### Mittwoch, den 07.12.2022
+Heute habe ich (Friederike) noch mal alleine am Projekt gearbeitet. 
