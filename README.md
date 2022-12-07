@@ -101,6 +101,7 @@ Die Stunde ist ausgefallen.
 
 #### Dienstag, den 06.12.2022
 Da Cosima krank ist, habe ich (Friederike) alleine am neuen Level weitergearbeitet und dafür die Levelauswahl überarbeitet. Außerdem habe ich mir einige der von Ihnen zur Verfügung gestellten Projektseiten und Unterrichtsprotokolle ehemaliger Schüler angeschaut, um Inspiration und Ideen zu sammeln.
+![Screenshot (11)](https://user-images.githubusercontent.com/111414772/206112669-91c6f691-1e01-43a3-a833-e34fb864dcde.png)
 
 #### Mittwoch, den 07.12.2022
 Heute habe ich (Friederike) noch mal alleine am Projekt gearbeitet. 
