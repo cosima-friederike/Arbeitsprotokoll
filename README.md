@@ -65,7 +65,7 @@ In dieser Stunde haben wir die Blende überarbeiten müssen, da die eingestellte
 ![Screenshot (8)](https://user-images.githubusercontent.com/111414772/197957822-958a53a3-cd4b-4b12-a094-77a087f148e1.png)
 
 #### Dienstag, den 01.11.2022
-Die Stunde ist auf Grund des Schulentwicklungstages ausgefallen.
+Die Stunde ist aufgrund des Schulentwicklungstages ausgefallen.
 
 #### Mittwoch, den 02.11.2022
 Heute haben wir das zweite Kostüm ("Labyrinth 2") erstellt. Da wir das zweite Labyrinth schwieriger gestalten wollten, hat dies sehr viel Zeit beansprucht. Wir haben das Level auch von Mitschülern testweise durchspielen lassen, um anschließend Änderungen vorzunehmen. So haben wir beispielsweise manche Wege vergrößern müssen, da diese zu schmal für den Player waren. Zunächst haben wir die Einstellung vorgenommen, dass das Labyrinth nach Durchspielen der ersten Runde automatisch zu Kostüm 2 wechselt. Außerdem haben wir ein Ziel für beide Level erstellt bzw. überarbeitet, sodass der Spieler in etwa weiß, wo sich das Ziel jeweils befindet. Dies hat allerdings nicht so gut funktioniert, da das Ziel nicht an einem festen Platz bleibt, sondern sich immer wieder, vor allem bei dem Kostümwechsel, ungewollt verschiebt.
