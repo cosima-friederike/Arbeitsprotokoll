@@ -104,6 +104,6 @@ Da Cosima krank ist, habe ich (Friederike) alleine am neuen Level weitergearbeit
 ![Screenshot (11)](https://user-images.githubusercontent.com/111414772/206112669-91c6f691-1e01-43a3-a833-e34fb864dcde.png)
 
 #### Mittwoch, den 07.12.2022
-Heute habe ich (Friederike) nochmal alleine an unserem Projekt gearbeitet. Ich habe das Arbeitstagebuch stellenweise überarbeitet und ein paar weitere musterhafte Projektseiten angeschaut, um anschließend selbst an unserer zu arbeiten. Hier habe ich zunächst die Projektvorstellung gemacht und mir Überlegungen zum weiteren Aufbau und Inhalt dieser Seite gemacht. So hatte ich beispielsweise die Idee, ein Video zu Beginn der Projektseite anzufügen, welches mit Hilfe einer Bildschirmaufnahme das beispielhafte Spielen eines der Level zeigt, um so einen besseren Eindruck des Spiels vermitteln zu können.
+Heute habe ich (Friederike) nochmal alleine an unserem Projekt gearbeitet. Ich habe das Arbeitstagebuch stellenweise überarbeitet und ein paar weitere musterhafte Projektseiten angeschaut, um anschließend selbst an unserer zu arbeiten. Hier habe ich zunächst die Projektvorstellung gemacht und mir Überlegungen zum weiteren Aufbau und Inhalt dieser Seite gemacht. So hatte ich beispielsweise die Idee, ein Video zu Beginn der Projektseite anzufügen, welches mit Hilfe einer Bildschirmaufnahme das beispielhafte Spielen eines der Level zeigt, um so einen direkten und besseren Eindruck des Spiels vermitteln zu können.
 
 #### Dienstag, den 12.12.2022
