@@ -100,10 +100,11 @@ Die Stunde ist ausgefallen.
 Die Stunde ist ausgefallen.
 
 #### Dienstag, den 06.12.2022
-Da Cosima krank ist, habe ich (Friederike) alleine am neuen Level weitergearbeitet und dafür die Levelauswahl überarbeitet. Außerdem habe ich mir einige der von Ihnen zur Verfügung gestellten Projektseiten und Unterrichtsprotokolle ehemaliger Schüler angeschaut, um Inspiration und Ideen zu sammeln.
+Da Cosima krank ist, habe ich (Friederike) alleine am neuen Level weitergearbeitet und dafür die Levelauswahl überarbeitet. Außerdem habe ich mir einige der von Ihnen zur Verfügung gestellten Projektseiten und Unterrichtsprotokolle ehemaliger Schüler angeschaut, um Inspiration und Ideen für unsere spätere Projektseite zu sammeln.
 ![Screenshot (11)](https://user-images.githubusercontent.com/111414772/206112669-91c6f691-1e01-43a3-a833-e34fb864dcde.png)
 
 #### Mittwoch, den 07.12.2022
-Heute habe ich (Friederike) nochmal alleine an unserem Projekt gearbeitet. Ich habe das Arbeitstagebuch stellenweise überarbeitet und ein paar weitere musterhafte Projektseiten angeschaut, um anschließend selbst an unserer zu arbeiten. Hier habe ich zunächst die Projektvorstellung gemacht und mir Überlegungen zum weiteren Aufbau und Inhalt dieser Seite gemacht. So hatte ich beispielsweise die Idee, ein Video zu Beginn der Projektseite anzufügen, welches mit Hilfe einer Bildschirmaufnahme das beispielhafte Spielen eines der Level zeigt, um so einen direkten und besseren Eindruck des Spiels vermitteln zu können.
+Heute habe ich (Friederike) nochmal alleine an unserem Projekt gearbeitet. Ich habe das Arbeitstagebuch stellenweise überarbeitet und ein paar weitere musterhafte Projektseiten angeschaut, um anschließend selbst an unserer zu arbeiten. Hier habe ich zunächst die Projektvorstellung gemacht und mir Überlegungen zum weiteren Aufbau und Inhalt dieser Seite gemacht. So hatte ich beispielsweise die Idee, ein Video zu Beginn der Projektseite anzufügen, welches mit Hilfe einer Bildschirmaufnahme das Spielen eines der Level zeigt, um so einen direkten und besseren Eindruck des Spiels vermitteln zu können.
 
-#### Dienstag, den 12.12.2022
+#### Dienstag, den 13.12.2022
+Am Anfang der Stunde ging leider etwas Zeit verloren, da Sie eine kleine Ansprache bezüglich eines klasseninternen Vorfalls gehalten haben. Wir haben danach an unserer Projektseite weiter gearbeitet. So haben wir jetzt eine Projekteinführung sowie die Vortsellung unseres verwendeten Programms. Als wir dann noch einmal auf unser Projekt auf Snap! zurgreifen wollten, mussten wir feststellen, dass erneut eingestellte Blöcke nicht funktionieren. Dies müssen wir uns auf jeden Fall noch genauer anschauen und die Fehler beheben, vorerst haben wir uns aber dazu entschieden, unsere Projektseite fertigzustellen.
