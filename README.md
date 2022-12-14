@@ -108,4 +108,4 @@ Des Weiteren haben wir uns einen Namen für das Spiel ausgedacht: "AMAZING MAZE"
 
 #### Mittwoch, den 14.12.2022
 Wir haben uns in der Doppelstunde heute viel mit unserer Projektseite beschäftigt und vor allem an der Erklärung des Spielaufbaus und des Codes gearbeitet. Dafür haben wir alle "Sprites" des Spiels einzeln erklärt und die von uns programmierten Funktionen und Befehle anhand von Bildschirmfotos dokumentiert. Durch die Anzahl an verschiedenen "Sprites" und Blöcken hat dies einige Zeit beansprucht.
-Zuletzt haben wir noch ein Mal unser Spiel durchgespielt und anschließend im Gruppenordner bei Iserv hochgeladen.
+Zuletzt haben wir noch ein Mal unser Spiel durchgespielt und die letzten kleinen Fehler, die wir gestern festgestellt hatten, behoben, sodass das Spiel nun einwandfrei klappt. Anschließend haben wir das Projekt im Gruppenordner bei Iserv hochgeladen.
