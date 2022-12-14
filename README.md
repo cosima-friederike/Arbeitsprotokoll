@@ -104,7 +104,6 @@ Heute habe ich (Friederike) nochmal alleine an unserem Projekt gearbeitet. Ich h
 
 #### Dienstag, den 13.12.2022
 Am Anfang der Stunde ging leider etwas Zeit verloren, da Sie eine kleine Ansprache bezüglich eines klasseninternen Vorfalls gehalten haben. Wir haben danach an unserer Projektseite weiter gearbeitet. So haben wir jetzt eine Projekteinführung sowie die Vorstellung unseres verwendeten Programms. Als wir dann noch einmal auf unser Projekt auf Snap! zurgreifen wollten, mussten wir feststellen, dass erneut eingestellte Blöcke nicht funktionieren. Dies müssen wir uns auf jeden Fall noch genauer anschauen und die Fehler beheben, vorerst haben wir uns aber dazu entschieden, unsere Projektseite fertigzustellen.
-
 Außerdem haben wir uns einen Namen für das Spiel ausgedacht: "AMAZING MAZE"
 
 #### Mittwoch, den 14.12.2022
